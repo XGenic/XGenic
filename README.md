@@ -1,8 +1,8 @@
-### Hey, I'm Denis.
+### Welcome in.
 
 I have a background in biology and a habit of turning questions into code.
 
-Lately I've been exploring LLM agent behavior, market-data oddities, information retrieval, and whatever rabbit hole wins my attention. I like building things that test an actual hypothesis. Sometimes that produces useful software; sometimes it produces a well-documented reason an idea doesn't work.
+Lately I've been exploring LLM agent behavior, market-data oddities, information retrieval, and whatever rabbit hole wins my attention. I like building things that test an actual hypothesis. Sometimes that produces useful software; sometimes it doesn't, that's just the way it goes.
 
 A few rabbit holes:
 
